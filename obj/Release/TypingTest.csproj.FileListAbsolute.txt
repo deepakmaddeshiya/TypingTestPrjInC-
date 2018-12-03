@@ -1,0 +1,9 @@
+C:\Users\nitin.mittal\Documents\TypingTest\TypingTest\bin\Release\TypingTest.exe.config
+C:\Users\nitin.mittal\Documents\TypingTest\TypingTest\bin\Release\TypingTest.exe
+C:\Users\nitin.mittal\Documents\TypingTest\TypingTest\bin\Release\TypingTest.pdb
+C:\Users\nitin.mittal\Documents\TypingTest\TypingTest\obj\Release\TypingTest.FrmTypingTest.resources
+C:\Users\nitin.mittal\Documents\TypingTest\TypingTest\obj\Release\TypingTest.Properties.Resources.resources
+C:\Users\nitin.mittal\Documents\TypingTest\TypingTest\obj\Release\TypingTest.csproj.GenerateResource.Cache
+C:\Users\nitin.mittal\Documents\TypingTest\TypingTest\obj\Release\TypingTest.csproj.CoreCompileInputs.cache
+C:\Users\nitin.mittal\Documents\TypingTest\TypingTest\obj\Release\TypingTest.exe
+C:\Users\nitin.mittal\Documents\TypingTest\TypingTest\obj\Release\TypingTest.pdb
