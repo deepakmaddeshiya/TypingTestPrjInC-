@@ -1,0 +1,1 @@
+An object is an instance of a class at any given time. The difference between a class and an object is that the object contains values for the properties.
